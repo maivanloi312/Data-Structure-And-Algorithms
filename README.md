@@ -1,7 +1,7 @@
 # Data-Structure-And-Algorithms (Thi Trắc Nghiệm)
 # Tóm tắt
--Ngôn ngữ C++
--Ta tổ chức các danh sách sau:
+- Ngôn ngữ C++
+- Ta tổ chức các danh sách sau:
 Danh sách môn học: mảng con trỏ (MAMH (C15), TENMH).
 Danh sách Lop : danh sách tuyến tính (MALOP, TENLOP, con trỏ): con trỏ sẻ trỏ đến danh sách sinh viên thuộc lớp đó.
 Danh sách sinh viên : danh sách liên kết đơn (MASV, HO, TEN, PHAI, password, con trỏ): con trỏ sẽ trỏ đến điểm các môn đã thi trắc nghiệm.
@@ -25,15 +25,15 @@ Chạy file Project.dev và nhấn F11 để IDE biên dịch và chạy chươn
 - Chức năng: Mai Văn Lợi
 - Chúng em xin chân thành cảm ơn thầy Lưu Nguyễn Kỳ Thư đã hướng dẫn chúng em thực hiện đồ án này!
 # Một số hình ảnh của chương trình
-Đăng nhập
+- Đăng nhập
 ![Screenshot (2)](https://user-images.githubusercontent.com/85224148/209391725-e77bba0e-524e-4fe6-815a-08713fa31240.png)
-Thêm sinh viên vào lớp dành cho giảng viên
+- Thêm sinh viên vào lớp dành cho giảng viên
 ![Screenshot (4)](https://user-images.githubusercontent.com/85224148/209391927-498881da-dff1-4306-9122-057d81d27c1c.png)
-Thêm câu hỏi thi dành cho giảng viên
+- Thêm câu hỏi thi dành cho giảng viên
 ![Screenshot (3)](https://user-images.githubusercontent.com/85224148/209391837-417e980d-adca-4018-a27b-ee138bc3e268.png)
-Vào thi dành cho sinh viên
+- Vào thi dành cho sinh viên
 ![Screenshot (5)](https://user-images.githubusercontent.com/85224148/209391992-01c1ae4b-4f82-41bc-acd9-17aac3de8089.png)
-Làm bài thi
+- Làm bài thi
 ![Screenshot (6)](https://user-images.githubusercontent.com/85224148/209392053-47486f78-c941-4b09-ba28-1b33d0018de5.png)
 
 
