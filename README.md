@@ -2,7 +2,7 @@
 # Tóm tắt
 - Ngôn ngữ C++
 - Ta tổ chức các danh sách sau:
-+ Danh sách môn học: mảng con trỏ (MAMH (C15), TENMH).
+* Danh sách môn học: mảng con trỏ (MAMH (C15), TENMH).
 + Danh sách Lop : danh sách tuyến tính (MALOP, TENLOP, con trỏ): con trỏ sẻ trỏ đến danh sách sinh viên thuộc lớp đó.
 Danh sách sinh viên : danh sách liên kết đơn (MASV, HO, TEN, PHAI, password, con trỏ): con trỏ sẽ trỏ đến điểm các môn đã thi trắc nghiệm.
 Danh sách Điểm thi (danh sách liên kết đơn) (Mamh, Diem).
