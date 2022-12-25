@@ -1,4 +1,4 @@
-# Data-Structure-And-Algorithms (Thi Trắc Nghiệm)
+# Cấu Trúc Dữ Liệu Và Giải Thuật (Thi Trắc Nghiệm)
 # Tóm tắt
 - Ngôn ngữ C++
 - Ta tổ chức các danh sách sau:
