@@ -21,8 +21,8 @@ Chạy file Project.dev và nhấn F11 để IDE biên dịch và chạy chươn
 - Cải thiện thuật lấy câu hỏi trong bộ đề tối ưu hơn (Ví dụ: Bộ đề có 10000 câu, lấy ngẫu nhiên các câu hỏi yêu cầu các câu hỏi thi không được trùng nhau, khi số câu hỏi đã lấy tăng tới 9000 thì sẽ gặp tình trạng lấy random vào câu hỏi đã lấy, lúc này phải luân phiên chạy lại từ đầu thuật toán cho đến khi tìm được câu hỏi khác chưa được lấy, rất tốn thời gian). Gợi ý: Khi câu hỏi đã lấy tăng tới 9000 sẽ bắt đầu chạy thuật toán tìm phần tử chưa xuất hiện mà không chạy thuật toán lấy ngẫu nhiên nữa.
 - Phần Vào thi nên nhập Tên môn thi, không nên nhập Mã môn thi.
 # Tác giả:
-- Giao diện: Huỳnh Tuấn Kiệt
-- Chức năng: Mai Văn Lợi
+- Frontend: Huỳnh Tuấn Kiệt
+- Backend: Mai Văn Lợi
 - Chúng em xin chân thành cảm ơn thầy Lưu Nguyễn Kỳ Thư đã hướng dẫn chúng em thực hiện đồ án này!
 # Một số hình ảnh của chương trình
 - Đăng nhập
